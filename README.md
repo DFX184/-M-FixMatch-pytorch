@@ -26,8 +26,6 @@ num_classes = 5
 
 ```
 
-And we saved a pre-trained model **resnet-18(accuracy:70.2)** in `/PreTrainModel`.
-
 run
 
 ```
